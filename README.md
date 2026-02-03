@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="55%" alt="coding animation"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif" width="55%" alt="coding"/>
+
 
 <h1>Hi 👋, I'm Dalia Ali</h1>
 <h3>Computer Science Student | Frontend Learner 🌱</h3>
