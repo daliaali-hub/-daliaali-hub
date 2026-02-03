@@ -1,9 +1,7 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="55%" alt="developer at work"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif" width="55%" alt="coding"/>
-
-
-<h1>Hi 👋, I'm Dalia Ali</h1>
+<h1>Hi,I'm Dalia Ali</h1>
 <h3>Computer Science Student | Frontend Learner 🌱</h3>
 
 </div>
@@ -34,7 +32,6 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Learning-blueviolet)
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -57,6 +54,6 @@ const daliaAli = {
   status: "Frontend Learner",
   languages: ["HTML", "CSS", "Java", "Python", "C++"],
   design: ["Figma", "UI/UX basics"],
-  tools: ["Git", "GitHub", "VS Code"],
+  tools: ["GitHub", "VS Code"],
   goal: "Become a skilled frontend developer 🌸"
 };
